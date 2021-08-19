@@ -1,0 +1,47 @@
+@media (max-width: 1920px){
+  body{
+    background-size: 900px;
+  }
+}
+
+@media (max-width: 1900px){
+  body{
+    background-size: 880px;
+  }
+}
+
+@media (max-width: 1700px){
+  body{
+    background-size: 800px;
+  }
+}
+
+@media (max-width: 1550px){
+  body{
+    background-size: 750px;
+  }
+}
+
+@media (max-width: 1445px){
+  body{
+    background-size: 700px;
+  }
+}
+
+@media (max-width: 1336px){
+  body{
+    background-size: 650px;
+  }
+}
+
+@media (max-width: 1224px){
+  body{
+    background-size: 600px;
+  }
+}
+
+@media (max-width: 1100px){
+  body{
+    background-position-x: -90px;
+  }
+}
