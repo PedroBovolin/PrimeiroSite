@@ -1,8 +1,4 @@
-header{
-  width: 1024px;
-  margin: 30px auto;
-  display: flex;
-  flex-direction: row;
+header section{
   justify-content: space-between;
   align-items: center;
 }
@@ -18,4 +14,3 @@ header nav ul li a{
   margin: 0 15px;
   color: #3399cc;
 }
-
