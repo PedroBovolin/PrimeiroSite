@@ -6,6 +6,7 @@
 
 @import "./header.css";
 @import "./buttons.css";
+@import "./main.css";
 
 /* Reset Css */
 
@@ -18,6 +19,7 @@
   font-family: 'Source Sans Pro', sans-serif;
   vertical-align: baseline;
   text-decoration: none;
+  font-weight: 300;
 }
 
 .container{
